@@ -1,6 +1,3 @@
-// import React from 'react';
-import './App.css';
-
 const HowToBuy = () => {
     return (
         <div id="how-to-buy">

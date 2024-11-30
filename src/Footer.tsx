@@ -4,7 +4,6 @@ const Footer = () => {
       <p className="footer-text">
         © {new Date().getFullYear()} $MOSALAH. All Rights Reserved.
       </p>
-      <p>Write us at mosallahmemecoin@gmail.com</p>
       <p className="footer-tagline">
         <strong>Disclaimer: </strong>
         This memecoin is created pureli for entertainment purposes. It holds no

@@ -5,6 +5,7 @@ import HowToBuy from "./HowToBuy";
 import Mission from "./Mission";
 import Socials from "./Socials";
 import Tokenomics from "./Tokenomics";
+import Videos from "./VIdeos";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Header />
       <HeaderPart />
       <Mission />
+      <Videos />
       <Tokenomics />
       <HowToBuy />
       <Socials />

@@ -17,8 +17,8 @@ const HowToBuy = () => {
                     </p>
                 </div>
                 <div className="how-to-buy-card">
-                    <h3>Swap for $MOSALAH</h3>
-                    <p>CA: [ EuKTKPFrZ8NQ9kjLvHDJqZfravnEQzwkE4m1wTEKpump ]</p>
+                    <h3>Swap for $MOSALAH CA:</h3>
+                    <p>EuKTKPFrZ8NQ9kjLvHDJqZfravnEQzwkE4m1wTEKpump</p>
                     <p>
                         Visit <a href="https://pump.fun/coin/EuKTKPFrZ8NQ9kjLvHDJqZfravnEQzwkE4m1wTEKpump" target="_blank" rel="noopener noreferrer">pump.fun</a>, copy+paste the contract address (CA), or follow the link to swap your SOL for $MOSALAH.
                     </p>
